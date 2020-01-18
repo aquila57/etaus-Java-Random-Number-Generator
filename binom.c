@@ -26,7 +26,7 @@
 /* The expected results are based on Pascal's triangle */
 /* for 2^19 */
 /* To determine heads or tails, */
-/* the java eegl48 generator is used */
+/* the java etaus generator is used */
 
 #include <stdio.h>
 #include <stdlib.h>

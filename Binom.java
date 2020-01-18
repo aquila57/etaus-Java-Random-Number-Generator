@@ -2,7 +2,7 @@
  *  Compilation:  javac Binom.java
  *  Execution:    java Binom
  *
- *  eegl48 generator, generates input to a binomial distribution
+ *  etaus generator, generates input to a binomial distribution
  *  test.
  *
  *  % java Binom

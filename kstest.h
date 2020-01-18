@@ -37,5 +37,3 @@ void isrt(treefmt *node, double num, xxfmt *xx);
 void rmtree(treefmt *node);
 
 void traverse(treefmt *node, xxfmt *xx);
-
-double geteegl(xxfmt *xx);
